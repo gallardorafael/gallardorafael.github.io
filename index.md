@@ -15,8 +15,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Courses and workshops
 
-##
-
 
 ## RESEARCH PROJECTS
 
