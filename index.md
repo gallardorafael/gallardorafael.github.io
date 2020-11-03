@@ -1,7 +1,5 @@
-## About me
-
 ## Contact information
-
+[Student email](rafael.gallardo@alumno.buap.mx)
 
 ## Areas of interest
 
