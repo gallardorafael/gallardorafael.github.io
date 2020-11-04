@@ -1,6 +1,6 @@
 ## Rafael Gallardo's home page
 
-Research fellow at the Language and Knowledge Engineering Laboratory of the [Benemérita Universidad Autónoma de Puebla](https://www.buap.mx/) (BUAP). Currently pursuing an *Ad Honorem* Bachelor of Engineering degree in Computer Science at BUAP.
+Research fellow at the [Language and Knowledge Engineering Laboratory](http://www.lke.buap.mx/) (LKE) of the [Benemérita Universidad Autónoma de Puebla](https://www.buap.mx/) (BUAP). Currently pursuing an *Ad Honorem* Bachelor of Engineering degree in Computer Science at BUAP.
 
 ## Contact information
 Email: rafael.gallardo@alumno.buap.mx
@@ -75,4 +75,4 @@ Differential Privacy model on deep learning architectures.
 3. González, M.C., Márquez, A.P.C., Cortés, C.Z., Martínez, Y.M., Martínez, B.B. and García, R.G., 2018. SISTEMA MULTIMEDIA QUE SIMULA ALGORITMOS DE CRIPTOGRAFÍA (MULTIMEDIA SYSTEM THAT SIMULATES CRYPTOGRAPHY ALGORITHMS). Pistas Educativas, 40(130). [LINK](http://www.itc.mx/ojs/index.php/pistas/article/view/1668)
 
 ### Preprint
-1. 
+1.
