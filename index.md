@@ -23,12 +23,12 @@ Research fellow at the [Language and Knowledge Engineering Laboratory](http://ww
 ## Education
 
 ### Degrees
-- BEng in Computer Science, Benemérita Universidad Autónoma de Puebla, 2016-2021 (ongoing)
+- B.Eng. in Computer Science, Benemérita Universidad Autónoma de Puebla, 2016-2021 (ongoing)
 
 ### Courses and workshops
 Throughout my undergraduate degree, I have participated in a wide variety of courses and workshops.
 
-- Mexican Workshop on Data Science and Big Data at the Centro de Investigación en Matemáticas (CIMAT), 2020.
+- Mexican Workshop on Data Science and Big Data at the [Centro de Investigación en Matemáticas](https://www.cimat.mx/) (CIMAT), 2020.
 - School of Deep Learning applied to Language Technologies at the
 [National Institute of Astrophysics, Optics and Electronics](https://www.inaoep.mx/) (INAOE), 2020.
 - National School of Computational Intelligence and Learning at the
@@ -66,7 +66,7 @@ Differential Privacy model on deep learning architectures.
 ## Open source projects
 1. [Deep Learning for Fast Identification of Bacterial Strains in Resource Constrained Devices](https://github.com/gallardorafael/bacterialidentification)
 2. [Evaluation of the Neural Model of Visual Attention in the Automatic Description of Images in Spanish](https://github.com/gallardorafael/ShowAttendTell_Flickr8k_Spanish)
-3. [edge2art](https://github.com/gallardorafael/edge2art)
+3. [edge2art: Edges to Artworks Translation with Conditional Generative Adversarial Networks](https://github.com/gallardorafael/edge2art)
 
 ## Publications
 1. Gallardo García, R., Beltrán, B., Vilariño, D., Zepeda, C. and Martínez, R., 2020. [Comparison of Clustering Algorithms in Text Clustering Tasks](https://cys.cic.ipn.mx/ojs/index.php/CyS/article/view/3369). Computación y Sistemas, 24(2).
