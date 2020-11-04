@@ -54,17 +54,25 @@ Differential Privacy model on deep learning architectures.
 ### Other projects
 1. Deep Learning for Fast Identification of Bacterial Strains in Resource Constrained Devices, (2020).
 2. Evaluación del modelo neuronal de atención visual en la descripción automática de imágenes en Español (Evaluation of the Neural Model of Visual Attention in the Automatic Description of Images in Spanish), (2020).
-3. edge2art: Edges to Artworks Translation with Conditional Generative Adversarial Networks, (2019).
-4. Approaches to EEG-based Brain-Computer Interfaces: A survey, (2019).
-5. Facial Recognition using Convolutional Neural Networks and Supervised Few-Shot Learning, (2018).
-6. Image Reconstruction from Human Brain Activity: A review, (2018).
-7. Comparison of Clustering Algorithms in Text Clustering Tasks, (2018).
-8. Creación de Modelos Profundos del Lenguaje (Generation of Deep Language Models), (2018).
-9. Facial Recognition with Deep Neural Networks and Clustering Algorithms, (2017).
-10. A grammar-based methodology to detect anomalous events through complex networks in real time, (2017).
+3. Creación de Modelos Profundos del Lenguaje (Generation of Deep Language Models), (2020).
+4. Facial Recognition with Deep Neural Networks and Clustering Algorithms, (2019).
+5. A grammar-based methodology to detect anomalous events through complex networks in real time, (2019).
+6. Image Reconstruction from Human Brain Activity: A review, (2019).
+7. Approaches to EEG-based Brain-Computer Interfaces: A survey (2019).
+8. edge2art: Edges to Artworks Translation with Conditional Generative Adversarial Networks, (2019).
+9. Facial Recognition using Convolutional Neural Networks and Supervised Few-Shot Learning, (2018).
+10. Comparison of Clustering Algorithms in Text Clustering Tasks, (2018).
 11. A review of sentiment analysis techniques: working with Twitter data, (2017).
 
 ## Open source projects
-
+1. [Deep Learning for Fast Identification of Bacterial Strains in Resource Constrained Devices](https://github.com/gallardorafael/bacterialidentification)
+2. [Evaluation of the Neural Model of Visual Attention in the Automatic Description of Images in Spanish](https://github.com/gallardorafael/ShowAttendTell_Flickr8k_Spanish)
+3. [edge2art](https://github.com/gallardorafael/edge2art)
 
 ## Publications
+1. Gallardo García, R., Beltrán, B., Vilariño, D., Zepeda, C. and Martínez, R., 2020. Comparison of Clustering Algorithms in Text Clustering Tasks. Computación y Sistemas, 24(2). [LINK](https://cys.cic.ipn.mx/ojs/index.php/CyS/article/view/3369)
+2. Gallardo García, R., Beltrán, B., Cerón Gárnica, C. and Vilariño Ayala, D., 2019. edge2art: Edges to Artworks Translation with Conditional Generative Adversarial Networks. Avances en la Transformación Digital hacia la industria 4.0, pp. 214-222. [LINK](http://www.aniei.org.mx/Archivos/Memorias/Libro_Electronico_CNCIIC2019.pdf)
+3. González, M.C., Márquez, A.P.C., Cortés, C.Z., Martínez, Y.M., Martínez, B.B. and García, R.G., 2018. SISTEMA MULTIMEDIA QUE SIMULA ALGORITMOS DE CRIPTOGRAFÍA (MULTIMEDIA SYSTEM THAT SIMULATES CRYPTOGRAPHY ALGORITHMS). Pistas Educativas, 40(130). [LINK](http://www.itc.mx/ojs/index.php/pistas/article/view/1668)
+
+### Preprint
+1. 
