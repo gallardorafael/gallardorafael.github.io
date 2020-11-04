@@ -28,25 +28,23 @@ Research fellow at the [Language and Knowledge Engineering Laboratory](http://ww
 ### Courses and workshops
 Throughout my undergraduate degree, I have participated in a wide variety of courses and workshops.
 
-- Mexican Workshop on Data Science and Big Data at the Center of
-Mathematical Research (2020).
+- Mexican Workshop on Data Science and Big Data at the Centro de Investigación en Matemáticas (CIMAT), 2020.
 - School of Deep Learning applied to Language Technologies at the
-National Institute of Astrophysics, Optics and Electronics (2020).
+[National Institute of Astrophysics, Optics and Electronics](https://www.inaoep.mx/) (INAOE), 2020.
 - National School of Computational Intelligence and Learning at the
-National Institute of Astrophysics, Optics and Electronics (2020).
-- Old Dominion University Remote Experience for Young Engineers
+[National Institute of Astrophysics, Optics and Electronics](https://www.inaoep.mx/) (INAOE), 2020.
+- [Old Dominion University](https://www.odu.edu/) Remote Experience for Young Engineers
 and Scientists Program (2020).
 - National School of Computational Intelligence and Learning at the
-Benemérita Universidad Autónoma de Puebla (2019).
+[Benemérita Universidad Autónoma de Puebla](https://www.buap.mx/) (BUAP), 2019.
 - International Workshop on the State of Research in Computational
-Learning at the Language and Knowledge Engineering Laboratory
-(2019).
+Learning at the [Language and Knowledge Engineering Laboratory](http://www.lke.buap.mx/) (LKE), 2019.
 
 ## Research projects
 
 ### Current projects
 1. Thesis work: *Image Captioning with Reading Comprehension*: Working with novel deep learning techniques, trying to outperform the
-state-of-the-art over the TextCaps dataset for OCR-based image captioning. This project will also have an embedded implementation to help blind people understand the world around them.
+state-of-the-art over the TextCaps dataset for OCR-based image captioning. My approach will also have an embedded implementation to help blind people understand the world around them.
 2. *A Convolutional Autoencoder for Single Image Super-Resolution*: Developing a new architecture for single image super-resolution. The
 project is based on convolutional autoencoders. I’m trying to beat the standard algorithms such as Lanczos resampling or bilineal/bicubic interpolations.
 3. *Approaches to Differential Privacy in Deep Learning Techniques*: A literature review of the different approaches to implement the
