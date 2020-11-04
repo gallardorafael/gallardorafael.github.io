@@ -1,6 +1,6 @@
 ## Rafael Gallardo's home page
 
-Research fellow at the [Language and Knowledge Engineering Laboratory](http://www.lke.buap.mx/) (LKE) of the [Benemérita Universidad Autónoma de Puebla](https://www.buap.mx/) (BUAP). Currently pursuing an *Ad Honorem* Bachelor of Engineering degree in Computer Science (Ingeniería en Ciencias de la Computación) at BUAP.
+Research fellow at the [Language and Knowledge Engineering Laboratory](http://www.lke.buap.mx/) (LKE) of the [Benemérita Universidad Autónoma de Puebla](https://www.buap.mx/) (BUAP). Currently pursuing an *Ad Honorem* Bachelor of Engineering degree in Computer Science (Ingeniería en Ciencias de la Computación) at BUAP. Member of the [Mexican Society for Artificial Intelligence](assets/docs/ConstanciaSocioSMIAc65.pdf) (SMIA).
 
 ## Contact information
 - Email:
