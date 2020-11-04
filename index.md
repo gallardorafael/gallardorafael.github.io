@@ -3,13 +3,14 @@
 Research fellow at the [Language and Knowledge Engineering Laboratory](http://www.lke.buap.mx/) (LKE) of the [Benemérita Universidad Autónoma de Puebla](https://www.buap.mx/) (BUAP). Currently pursuing an *Ad Honorem* Bachelor of Engineering degree in Computer Science at BUAP.
 
 ## Contact information
-Email: rafael.gallardo@alumno.buap.mx
+- Email:
+  * rafael.gallardo@alumno.buap.mx
+  * rafael.gallardo@buap.edu.mx
 
-[Twitter](https://twitter.com/_gallardorafael) or @_gallardorafael
-
-[Linkedin](https://www.linkedin.com/in/gallardo-garcia-r/)
-
-[Google Scholar](https://scholar.google.com/citations?user=OGxJCHoAAAAJ)
+- [Twitter](https://twitter.com/_gallardorafael) or @_gallardorafael
+- [LinkedIn](https://www.linkedin.com/in/gallardo-garcia-r/)
+- [Google Scholar](https://scholar.google.com/citations?user=OGxJCHoAAAAJ)
+- [ORCID](https://orcid.org/0000-0001-5085-3501)
 
 ## Areas of interest
 - Deep learning
@@ -44,11 +45,11 @@ Learning at the Language and Knowledge Engineering Laboratory
 ## Research projects
 
 ### Current projects
-1. Thesis work: Image Captioning with Reading Comprehension: Working with novel deep learning techniques, trying to outperform the
+1. Thesis work: *Image Captioning with Reading Comprehension*: Working with novel deep learning techniques, trying to outperform the
 state-of-the-art over the TextCaps dataset for OCR-based image captioning. This project will also have an embedded implementation to help blind people understand the world around them.
-2. A Convolutional Autoencoder for Single Image Super-Resolution: Developing a new architecture for single image super-resolution. The
+2. *A Convolutional Autoencoder for Single Image Super-Resolution*: Developing a new architecture for single image super-resolution. The
 project is based on convolutional autoencoders. I’m trying to beat the standard algorithms such as Lanczos resampling or bilineal/bicubic interpolations.
-3. Approaches to Differential Privacy in Deep Learning Techniques: A literature review of the different approaches to implement the
+3. *Approaches to Differential Privacy in Deep Learning Techniques*: A literature review of the different approaches to implement the
 Differential Privacy model on deep learning architectures.
 
 ### Other projects
@@ -70,9 +71,9 @@ Differential Privacy model on deep learning architectures.
 3. [edge2art](https://github.com/gallardorafael/edge2art)
 
 ## Publications
-1. Gallardo García, R., Beltrán, B., Vilariño, D., Zepeda, C. and Martínez, R., 2020. Comparison of Clustering Algorithms in Text Clustering Tasks. Computación y Sistemas, 24(2). [LINK](https://cys.cic.ipn.mx/ojs/index.php/CyS/article/view/3369)
-2. Gallardo García, R., Beltrán, B., Cerón Gárnica, C. and Vilariño Ayala, D., 2019. edge2art: Edges to Artworks Translation with Conditional Generative Adversarial Networks. Avances en la Transformación Digital hacia la industria 4.0, pp. 214-222. [LINK](http://www.aniei.org.mx/Archivos/Memorias/Libro_Electronico_CNCIIC2019.pdf)
-3. González, M.C., Márquez, A.P.C., Cortés, C.Z., Martínez, Y.M., Martínez, B.B. and García, R.G., 2018. SISTEMA MULTIMEDIA QUE SIMULA ALGORITMOS DE CRIPTOGRAFÍA (MULTIMEDIA SYSTEM THAT SIMULATES CRYPTOGRAPHY ALGORITHMS). Pistas Educativas, 40(130). [LINK](http://www.itc.mx/ojs/index.php/pistas/article/view/1668)
+1. Gallardo García, R., Beltrán, B., Vilariño, D., Zepeda, C. and Martínez, R., 2020. [Comparison of Clustering Algorithms in Text Clustering Tasks](https://cys.cic.ipn.mx/ojs/index.php/CyS/article/view/3369). Computación y Sistemas, 24(2).
+2. Gallardo García, R., Beltrán, B., Cerón Gárnica, C. and Vilariño Ayala, D., 2019. [edge2art: Edges to Artworks Translation with Conditional Generative Adversarial Networks](http://www.aniei.org.mx/Archivos/Memorias/Libro_Electronico_CNCIIC2019.pdf). Avances en la Transformación Digital hacia la industria 4.0, pp. 214-222.
+3. González, M.C., Márquez, A.P.C., Cortés, C.Z., Martínez, Y.M., Martínez, B.B. and García, R.G., 2018. [SISTEMA MULTIMEDIA QUE SIMULA ALGORITMOS DE CRIPTOGRAFÍA (MULTIMEDIA SYSTEM THAT SIMULATES CRYPTOGRAPHY ALGORITHMS)](http://www.itc.mx/ojs/index.php/pistas/article/view/1668). Pistas Educativas, 40(130).
 
 ### Preprint
 1.
