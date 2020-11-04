@@ -67,6 +67,7 @@ Differential Privacy model on deep learning architectures.
 1. [Deep Learning for Fast Identification of Bacterial Strains in Resource Constrained Devices](https://github.com/gallardorafael/bacterialidentification)
 2. [Evaluation of the Neural Model of Visual Attention in the Automatic Description of Images in Spanish](https://github.com/gallardorafael/ShowAttendTell_Flickr8k_Spanish)
 3. [edge2art: Edges to Artworks Translation with Conditional Generative Adversarial Networks](https://github.com/gallardorafael/edge2art)
+4. [3D pyramid (basis of computer graphics)](https://github.com/gallardorafael/3dpyramid)
 
 ## Publications
 1. Gallardo García, R., Beltrán, B., Vilariño, D., Zepeda, C. and Martínez, R., 2020. [Comparison of Clustering Algorithms in Text Clustering Tasks](https://cys.cic.ipn.mx/ojs/index.php/CyS/article/view/3369). Computación y Sistemas, 24(2).
