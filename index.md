@@ -72,11 +72,11 @@ Differential Privacy model on deep learning architectures.
 ## Publications
 1. Gallardo García, R., Beltrán, B., Vilariño, D., Zepeda, C. and Martínez, R., 2020. [Comparison of Clustering Algorithms in Text Clustering Tasks](https://cys.cic.ipn.mx/ojs/index.php/CyS/article/view/3369). Computación y Sistemas, 24(2).
 2. Gallardo García, R., Beltrán, B., Cerón Gárnica, C. and Vilariño Ayala, D., 2019. [edge2art: Edges to Artworks Translation with Conditional Generative Adversarial Networks](http://www.aniei.org.mx/Archivos/Memorias/Libro_Electronico_CNCIIC2019.pdf). Avances en la Transformación Digital hacia la industria 4.0, pp. 214-222.
-3. González, M.C., Márquez, A.P.C., Cortés, C.Z., Martínez, Y.M., Martínez, B.B. and García, R.G., 2018. [SISTEMA MULTIMEDIA QUE SIMULA ALGORITMOS DE CRIPTOGRAFÍA (MULTIMEDIA SYSTEM THAT SIMULATES CRYPTOGRAPHY ALGORITHMS)](http://www.itc.mx/ojs/index.php/pistas/article/view/1668). Pistas Educativas, 40(130).
+3. González-Contreras, M., Cervantes-Márquez, A., Zepeda-Cortés, C., Moyao-Martínez, Y., Beltrán-Martínez, B. and Gallardo-García, R., 2018. [SISTEMA MULTIMEDIA QUE SIMULA ALGORITMOS DE CRIPTOGRAFÍA (MULTIMEDIA SYSTEM THAT SIMULATES CRYPTOGRAPHY ALGORITHMS)](http://www.itc.mx/ojs/index.php/pistas/article/view/1668). Pistas Educativas, 40(130).
 
 ### Accepted papers (pending publication)
 1. Gallardo-García, R., Beltrán-Martínez, B. and Darnes Vilariño, A., 2020. [Evaluación del modelo neuronal de atención visual en la descripción automática de imágenes en Español (Evaluation of the Neural Model of Visual Attention in the Automatic Description of Images in Spanish)](assets/docs/COMIA2020.pdf). Research in Computer Science.
-2. Gallardo García, R., Beltrán, B., Vilariño, D. and Martínez, R., 2019. [Facial Recognition using Convolutional Neural Networks and Supervised Few-Shot Learning](assets/docs/LKE2019.pdf). Polibits Journal. 
+2. Gallardo García, R., Beltrán, B., Vilariño, D. and Martínez, R., 2019. [Facial Recognition using Convolutional Neural Networks and Supervised Few-Shot Learning](assets/docs/LKE2019.pdf). Polibits Journal.
 
 ### Preprint
 1. Nothing here.
