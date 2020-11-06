@@ -77,8 +77,9 @@ Differential Privacy model on deep learning architectures.
 
 ### Accepted papers (pending publication)
 1. Gallardo-García, R., Beltrán-Martínez, B. and Darnes Vilariño, A., 2020. [Evaluación del modelo neuronal de atención visual en la descripción automática de imágenes en Español (Evaluation of the Neural Model of Visual Attention in the Automatic Description of Images in Spanish)](assets/docs/COMIA2020.pdf). Research in Computer Science.
-2. Gallardo-García, R., Jarquín-Rodríguez, S., Beltrán-Martínez, B., and Martínez, R., 2020. [Deep Learning for Fast Identification of Bacterial Strains in Resource Constrained Devices](assets/docs/Presentacion_Simultanea_Paper12.pdf). Congreso Nacional de Ciencias de la Computación.
+2. Gallardo-García, R., Jarquín-Rodríguez, S., Beltrán-Martínez, B. and Martínez, R., 2020. [Deep Learning for Fast Identification of Bacterial Strains in Resource Constrained Devices](assets/docs/Presentacion_Simultanea_Paper12.pdf). Congreso Nacional de Ciencias de la Computación.
 3. Gallardo García, R., Beltrán, B., Vilariño, D. and Martínez, R., 2019. [Facial Recognition using Convolutional Neural Networks and Supervised Few-Shot Learning](assets/docs/LKE2019.pdf). Polibits Journal.
+4. Gallardo García, R., Beltrán, B., Vilariño Ayala, D., Martínez, R. and Contreras Gonzáles, M., 2019. [Approaches to EEG-based Brain-Computer Interfaces: A Survey](assets/docs/LKE_ID_8.pdf). Research in Computer Science.
 
 ### Preprint
 1. Nothing here.
