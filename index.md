@@ -67,7 +67,7 @@ Differential Privacy model on deep learning architectures.
 1. [Deep Learning for Fast Identification of Bacterial Strains in Resource Constrained Devices](https://github.com/gallardorafael/bacterialidentification)
 2. [Evaluation of the Neural Model of Visual Attention in the Automatic Description of Images in Spanish](https://github.com/gallardorafael/ShowAttendTell_Flickr8k_Spanish)
 3. [edge2art: Edges to Artworks Translation with Conditional Generative Adversarial Networks](https://github.com/gallardorafael/edge2art)
-4. [Machine Learning Algoritms from Scratch](https://github.com/gallardorafael/ML_From_Scratch)
+4. [Machine Learning Algorithms from Scratch](https://github.com/gallardorafael/ML_From_Scratch)
 5. [3D pyramid (basis of computer graphics)](https://github.com/gallardorafael/3dpyramid)
 
 ## Publications
