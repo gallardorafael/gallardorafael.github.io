@@ -73,7 +73,7 @@ Differential Privacy model on deep learning architectures.
 ## Publications
 1. Gallardo García, R., Beltrán, B., Vilariño, D., Zepeda, C. and Martínez, R., 2020. [Comparison of Clustering Algorithms in Text Clustering Tasks](https://cys.cic.ipn.mx/ojs/index.php/CyS/article/view/3369). Computación y Sistemas, 24(2).
 2. Gallardo García, R., Beltrán, B., Cerón Gárnica, C. and Vilariño Ayala, D., 2019. [edge2art: Edges to Artworks Translation with Conditional Generative Adversarial Networks](http://www.aniei.org.mx/Archivos/Memorias/Libro_Electronico_CNCIIC2019.pdf). Avances en la Transformación Digital hacia la industria 4.0, pp. 214-222.
-3. Gallardo García, R., Beltrán, B., Vilariño, D. and Martínez, R., 2019. [Facial Recognition using Convolutional Neural Networks and Supervised Few-Shot Learning](https://www.polibits.gelbukh.com/2019_60/Facial%20Recognition%20using%20Convolutional%20Neural%20Networks%20and%20Supervised%20Few-Shot%20Learning.pdf). POLIBITS, 60, pp.67-72.
+3. Gallardo García, R., Beltrán, B., Vilariño, D. and Martínez, R., 2019. [Facial Recognition using Convolutional Neural Networks and Supervised Few-Shot Learning](https://www.cys.cic.ipn.mx/ojs/index.php/polibits/article/view/3859/3142). POLIBITS, 60, pp.67-72.
 4. González-Contreras, M., Cervantes-Márquez, A., Zepeda-Cortés, C., Moyao-Martínez, Y., Beltrán-Martínez, B. and Gallardo-García, R., 2018. [SISTEMA MULTIMEDIA QUE SIMULA ALGORITMOS DE CRIPTOGRAFÍA (MULTIMEDIA SYSTEM THAT SIMULATES CRYPTOGRAPHY ALGORITHMS)](http://www.itc.mx/ojs/index.php/pistas/article/view/1668). Pistas Educativas, 40(130).
 
 ### Accepted papers (pending publication)
