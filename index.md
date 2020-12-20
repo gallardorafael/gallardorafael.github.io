@@ -48,14 +48,7 @@ state-of-the-art over the TextCaps dataset for OCR-based image captioning. My ap
 2. *A Convolutional Autoencoder for Single Image Super-Resolution*: Developing a new architecture for single image super-resolution. The
 project is based on convolutional autoencoders. I’m trying to beat the standard algorithms such as Lanczos resampling or bilineal/bicubic interpolations.
 
-## Open source projects
-1. [Deep Learning for Fast Identification of Bacterial Strains in Resource Constrained Devices](https://github.com/gallardorafael/bacterialidentification)
-2. [Evaluation of the Neural Model of Visual Attention in the Automatic Description of Images in Spanish](https://github.com/gallardorafael/ShowAttendTell_Flickr8k_Spanish)
-3. [edge2art: Edges to Artworks Translation with Conditional Generative Adversarial Networks](https://github.com/gallardorafael/edge2art)
-4. [Machine Learning Algorithms from Scratch](https://github.com/gallardorafael/ML_From_Scratch)
-5. [3D pyramid (basis of computer graphics)](https://github.com/gallardorafael/3dpyramid)
-
-## Publications (peer reviewed)
+### Publications (peer reviewed)
 1. Gallardo García, R., Beltrán, B., Vilariño, D., Zepeda, C. and Martínez, R., 2020. [Comparison of Clustering Algorithms in Text Clustering Tasks](https://cys.cic.ipn.mx/ojs/index.php/CyS/article/view/3369). Computación y Sistemas, 24(2).
 2. Gallardo García, R., Beltrán, B., Cerón Gárnica, C. and Vilariño Ayala, D., 2019. [edge2art: Edges to Artworks Translation with Conditional Generative Adversarial Networks](http://www.aniei.org.mx/Archivos/Memorias/Libro_Electronico_CNCIIC2019.pdf). Avances en la Transformación Digital hacia la industria 4.0, pp. 214-222.
 3. Gallardo García, R., Beltrán, B., Vilariño, D. and Martínez, R., 2019. [Facial Recognition using Convolutional Neural Networks and Supervised Few-Shot Learning](https://www.cys.cic.ipn.mx/ojs/index.php/polibits/article/view/3859/3142). POLIBITS, 60, pp.67-72.
@@ -76,3 +69,10 @@ project is based on convolutional autoencoders. I’m trying to beat the standar
 3. A grammar-based methodology to detect anomalous events through complex networks in real time, (2019).
 4. Image Reconstruction from Human Brain Activity: A review, (2019).
 5. A review of sentiment analysis techniques: working with Twitter data, (2017). [Certificate](assets/docs/HaciendoCienciaO2018.pdf)
+
+## Open source projects
+1. [Deep Learning for Fast Identification of Bacterial Strains in Resource Constrained Devices](https://github.com/gallardorafael/bacterialidentification)
+2. [Evaluation of the Neural Model of Visual Attention in the Automatic Description of Images in Spanish](https://github.com/gallardorafael/ShowAttendTell_Flickr8k_Spanish)
+3. [edge2art: Edges to Artworks Translation with Conditional Generative Adversarial Networks](https://github.com/gallardorafael/edge2art)
+4. [Machine Learning Algorithms from Scratch](https://github.com/gallardorafael/ML_From_Scratch)
+5. [3D pyramid (basis of computer graphics)](https://github.com/gallardorafael/3dpyramid)
