@@ -30,13 +30,13 @@ Throughout my undergraduate degree, I have participated in a wide variety of cou
 
 - Mexican Workshop on Data Science and Big Data at the [Centro de Investigación en Matemáticas](https://www.cimat.mx/) (CIMAT), 2020.
 - School of Deep Learning applied to Language Technologies at the
-[National Institute of Astrophysics, Optics and Electronics](https://www.inaoep.mx/) (INAOE), 2020.
+[National Institute of Astrophysics, Optics and Electronics](https://www.inaoep.mx/) (INAOE), 2020. [Certificate](assets/docs/Reconocimiento_Taller_CD_BD_2020_Rafael_Gallardo_García.pdf)
 - National School of Computational Intelligence and Learning at the
 [National Institute of Astrophysics, Optics and Electronics](https://www.inaoep.mx/) (INAOE), 2020.
 - [Old Dominion University](https://www.odu.edu/) Remote Experience for Young Engineers
-and Scientists Program (2020).
+and Scientists Program (2020). [Certificate](assets/docs/ODU REYES Program.pdf)
 - National School of Computational Intelligence and Learning at the
-[Benemérita Universidad Autónoma de Puebla](https://www.buap.mx/) (BUAP), 2019.
+[Benemérita Universidad Autónoma de Puebla](https://www.buap.mx/) (BUAP), 2019. [CONSTANCIA SNAIC_2019.pdf](Certificate)
 - International Workshop on the State of Research in Computational
 Learning at the [Language and Knowledge Engineering Laboratory](http://www.lke.buap.mx/) (LKE), 2019.
 
@@ -47,21 +47,6 @@ Learning at the [Language and Knowledge Engineering Laboratory](http://www.lke.b
 state-of-the-art over the TextCaps dataset for OCR-based image captioning. My approach will also have an embedded implementation to help blind people understand the world around them.
 2. *A Convolutional Autoencoder for Single Image Super-Resolution*: Developing a new architecture for single image super-resolution. The
 project is based on convolutional autoencoders. I’m trying to beat the standard algorithms such as Lanczos resampling or bilineal/bicubic interpolations.
-3. *Approaches to Differential Privacy in Deep Learning Techniques*: A literature review of the different approaches to implement the
-Differential Privacy model on deep learning architectures.
-
-### Other projects
-1. Deep Learning for Fast Identification of Bacterial Strains in Resource Constrained Devices, (2020).
-2. Evaluación del modelo neuronal de atención visual en la descripción automática de imágenes en Español (Evaluation of the Neural Model of Visual Attention in the Automatic Description of Images in Spanish), (2020).
-3. Creación de Modelos Profundos del Lenguaje (Generation of Deep Language Models), (2020).
-4. Facial Recognition with Deep Neural Networks and Clustering Algorithms, (2019).
-5. A grammar-based methodology to detect anomalous events through complex networks in real time, (2019).
-6. Image Reconstruction from Human Brain Activity: A review, (2019).
-7. Approaches to EEG-based Brain-Computer Interfaces: A survey (2019).
-8. edge2art: Edges to Artworks Translation with Conditional Generative Adversarial Networks, (2019).
-9. Facial Recognition using Convolutional Neural Networks and Supervised Few-Shot Learning, (2018).
-10. Comparison of Clustering Algorithms in Text Clustering Tasks, (2018).
-11. A review of sentiment analysis techniques: working with Twitter data, (2017).
 
 ## Open source projects
 1. [Deep Learning for Fast Identification of Bacterial Strains in Resource Constrained Devices](https://github.com/gallardorafael/bacterialidentification)
@@ -78,8 +63,22 @@ Differential Privacy model on deep learning architectures.
 
 ### Accepted papers (pending publication)
 1. Gallardo-García, R., Beltrán-Martínez, B. and Darnes Vilariño, A., 2020. [Evaluación del modelo neuronal de atención visual en la descripción automática de imágenes en Español (Evaluation of the Neural Model of Visual Attention in the Automatic Description of Images in Spanish)](assets/docs/COMIA2020.pdf). Research in Computer Science.
-2. Gallardo-García, R., Jarquín-Rodríguez, S., Beltrán-Martínez, B. and Martínez, R., 2020. [Deep Learning for Fast Identification of Bacterial Strains in Resource Constrained Devices](assets/docs/paper12_revisado_latex.pdf). Congreso Nacional de Ciencias de la Computación.
+2. Gallardo-García, R., Jarquín-Rodríguez, S., Beltrán-Martínez, B. and Martínez, R., 2020. [Deep Learning for Fast Identification of Bacterial Strains in Resource Constrained Devices](assets/docs/paper12_revisado_latex.pdf). X Congreso Nacional y II Congreso Internacional de Ciencias de la Computación.
 3. Gallardo García, R., Beltrán, B., Vilariño Ayala, D., Martínez, R. and Contreras Gonzáles, M., 2019. [Approaches to EEG-based Brain-Computer Interfaces: A Survey](assets/docs/LKE_ID_8.pdf). Research in Computer Science.
+4. Gallardo-García, R., Herrera-Maldonado, L., Remigio-Alvarado, A., and Romero-Hernández P., 2020. [Preservación de Privacidad en el Aprendizaje Profundo: Enfoques y soluciones](assets/docs/PrivacyPreseervingDL.pdf). 1er. Workshop de Proyectos de Investigación Junior, X Congreso Nacional y II Congreso Internacional de Ciencias de la Computación.
 
 ### Preprint
 1. Nothing here.
+
+### Other projects
+1. Deep Learning for Fast Identification of Bacterial Strains in Resource Constrained Devices, (2020).
+2. Evaluación del modelo neuronal de atención visual en la descripción automática de imágenes en Español (Evaluation of the Neural Model of Visual Attention in the Automatic Description of Images in Spanish), (2020).
+3. Creación de Modelos Profundos del Lenguaje (Generation of Deep Language Models), (2020).
+4. Facial Recognition with Deep Neural Networks and Clustering Algorithms, (2019).
+5. A grammar-based methodology to detect anomalous events through complex networks in real time, (2019).
+6. Image Reconstruction from Human Brain Activity: A review, (2019).
+7. Approaches to EEG-based Brain-Computer Interfaces: A survey (2019).
+8. edge2art: Edges to Artworks Translation with Conditional Generative Adversarial Networks, (2019).
+9. Facial Recognition using Convolutional Neural Networks and Supervised Few-Shot Learning, (2018).
+10. Comparison of Clustering Algorithms in Text Clustering Tasks, (2018).
+11. A review of sentiment analysis techniques: working with Twitter data, (2017).
