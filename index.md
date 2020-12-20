@@ -36,7 +36,7 @@ Throughout my undergraduate degree, I have participated in a wide variety of cou
 - [Old Dominion University](https://www.odu.edu/) Remote Experience for Young Engineers
 and Scientists Program (2020). [Certificate](assets/docs/ODU REYES Program.pdf)
 - National School of Computational Intelligence and Learning at the
-[Benemérita Universidad Autónoma de Puebla](https://www.buap.mx/) (BUAP), 2019. [CONSTANCIA SNAIC_2019.pdf](Certificate)
+[Benemérita Universidad Autónoma de Puebla](https://www.buap.mx/) (BUAP), 2019. [Certificate](assets/docs/CONSTANCIA SNAIC_2019.pdf)
 - International Workshop on the State of Research in Computational
 Learning at the [Language and Knowledge Engineering Laboratory](http://www.lke.buap.mx/) (LKE), 2019.
 
@@ -55,7 +55,7 @@ project is based on convolutional autoencoders. I’m trying to beat the standar
 4. [Machine Learning Algorithms from Scratch](https://github.com/gallardorafael/ML_From_Scratch)
 5. [3D pyramid (basis of computer graphics)](https://github.com/gallardorafael/3dpyramid)
 
-## Publications
+## Publications (peer reviewed)
 1. Gallardo García, R., Beltrán, B., Vilariño, D., Zepeda, C. and Martínez, R., 2020. [Comparison of Clustering Algorithms in Text Clustering Tasks](https://cys.cic.ipn.mx/ojs/index.php/CyS/article/view/3369). Computación y Sistemas, 24(2).
 2. Gallardo García, R., Beltrán, B., Cerón Gárnica, C. and Vilariño Ayala, D., 2019. [edge2art: Edges to Artworks Translation with Conditional Generative Adversarial Networks](http://www.aniei.org.mx/Archivos/Memorias/Libro_Electronico_CNCIIC2019.pdf). Avances en la Transformación Digital hacia la industria 4.0, pp. 214-222.
 3. Gallardo García, R., Beltrán, B., Vilariño, D. and Martínez, R., 2019. [Facial Recognition using Convolutional Neural Networks and Supervised Few-Shot Learning](https://www.cys.cic.ipn.mx/ojs/index.php/polibits/article/view/3859/3142). POLIBITS, 60, pp.67-72.
@@ -67,18 +67,12 @@ project is based on convolutional autoencoders. I’m trying to beat the standar
 3. Gallardo García, R., Beltrán, B., Vilariño Ayala, D., Martínez, R. and Contreras Gonzáles, M., 2019. [Approaches to EEG-based Brain-Computer Interfaces: A Survey](assets/docs/LKE_ID_8.pdf). Research in Computer Science.
 4. Gallardo-García, R., Herrera-Maldonado, L., Remigio-Alvarado, A., and Romero-Hernández P., 2020. [Preservación de Privacidad en el Aprendizaje Profundo: Enfoques y soluciones](assets/docs/PrivacyPreseervingDL.pdf). 1er. Workshop de Proyectos de Investigación Junior, X Congreso Nacional y II Congreso Internacional de Ciencias de la Computación.
 
-### Preprint
+### Preprints
 1. Nothing here.
 
 ### Other projects
-1. Deep Learning for Fast Identification of Bacterial Strains in Resource Constrained Devices, (2020).
-2. Evaluación del modelo neuronal de atención visual en la descripción automática de imágenes en Español (Evaluation of the Neural Model of Visual Attention in the Automatic Description of Images in Spanish), (2020).
-3. Creación de Modelos Profundos del Lenguaje (Generation of Deep Language Models), (2020).
-4. Facial Recognition with Deep Neural Networks and Clustering Algorithms, (2019).
-5. A grammar-based methodology to detect anomalous events through complex networks in real time, (2019).
-6. Image Reconstruction from Human Brain Activity: A review, (2019).
-7. Approaches to EEG-based Brain-Computer Interfaces: A survey (2019).
-8. edge2art: Edges to Artworks Translation with Conditional Generative Adversarial Networks, (2019).
-9. Facial Recognition using Convolutional Neural Networks and Supervised Few-Shot Learning, (2018).
-10. Comparison of Clustering Algorithms in Text Clustering Tasks, (2018).
-11. A review of sentiment analysis techniques: working with Twitter data, (2017).
+1. Creación de Modelos Profundos del Lenguaje (Generation of Deep Language Models), (2019). [Certificate](assets/docs/HaciendoCienciaO2019.pdf)
+2. Facial Recognition with Deep Neural Networks and Clustering Algorithms, (2019). [Certificate](assets/docs/HacienciCienciaP2019.pdf)
+3. A grammar-based methodology to detect anomalous events through complex networks in real time, (2019).
+4. Image Reconstruction from Human Brain Activity: A review, (2019).
+5. A review of sentiment analysis techniques: working with Twitter data, (2017). [Certificate](assets/docs/HaciendoCienciaO2018.pdf)
