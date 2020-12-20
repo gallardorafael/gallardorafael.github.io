@@ -28,9 +28,9 @@ Research fellow at the [Language and Knowledge Engineering Laboratory](http://ww
 ### Courses and workshops
 Throughout my undergraduate degree, I have participated in a wide variety of courses and workshops.
 
-- Mexican Workshop on Data Science and Big Data at the [Centro de Investigación en Matemáticas](https://www.cimat.mx/) (CIMAT), 2020.
+- Mexican Workshop on Data Science and Big Data at the [Centro de Investigación en Matemáticas](https://www.cimat.mx/) (CIMAT), 2020. [Certificate](assets/docs/Reconocimiento_Taller_CD_BD_2020_Rafael_Gallardo_García.pdf)
 - School of Deep Learning applied to Language Technologies at the
-[National Institute of Astrophysics, Optics and Electronics](https://www.inaoep.mx/) (INAOE), 2020. [Certificate](assets/docs/Reconocimiento_Taller_CD_BD_2020_Rafael_Gallardo_García.pdf)
+[National Institute of Astrophysics, Optics and Electronics](https://www.inaoep.mx/) (INAOE), 2020.
 - National School of Computational Intelligence and Learning at the
 [National Institute of Astrophysics, Optics and Electronics](https://www.inaoep.mx/) (INAOE), 2020.
 - [Old Dominion University](https://www.odu.edu/) Remote Experience for Young Engineers
