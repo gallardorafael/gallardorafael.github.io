@@ -43,8 +43,9 @@ Learning at the [Language and Knowledge Engineering Laboratory](http://www.lke.b
 ## Research projects
 
 ### Current projects
-1. Thesis work: *Image Captioning with Reading Comprehension: Towards Machines with Improved Visual Perception and Image Understanding*: Working with novel deep learning techniques, trying to outperform the state-of-the-art over the TextCaps dataset for OCR-based image captioning. My approach will also have an embedded implementation to help blind people understand the world around them.
-2. *Design space exploration for super-resolution using convolutional autoencoders*: Developing architectures for single image super-resolution. The project is based on convolutional autoencoders. Trying to beat the standard algorithms such as Lanczos resampling or bilineal/bicubic interpolations.
+1. Thesis work: *Image Captioning with Reading Comprehension: Towards Machines with Improved Visual Perception and Image Understanding*: Working with novel deep learning techniques, trying to outperform the state-of-the-art over the TextCaps dataset for OCR-based image captioning. I am also considering some embedded applications, mainly focusing on helping blind people.
+2. *Design space exploration for super-resolution using convolutional autoencoders*: Developing architectures for single image super-resolution. The project is based on convolutional autoencoders. Trying to outperform the standard algorithms such as Lanczos resampling or bilineal/bicubic interpolations. [DRAFT](assets/docs/DRAFT_caeSR.pdf)
+2. *Efficient and Mobile Deep Learning Architectures for Fast Identification of Bacterial Strains in Resource-Constrained Devices*: Fine-tuning state-of-the-art mobile and efficient networks to solve a classification problem with 32 bacterial species (using DIBaS dataset). I am also proposing a new data augmentation strategy. 8 of my 12 architectures exceed 95% of top-1 classification accuracy. [DRAFT](assets/docs/DRAFT_EffMobDIBaS.pdf)
 
 ### Publications (peer reviewed)
 1. Gallardo García, R., Beltrán, B., Vilariño Ayala, D., Martínez, R. and Contreras Gonzáles, M., 2020. [Approaches to EEG-based Brain-Computer Interfaces: A Survey](https://www.rcs.cic.ipn.mx/2020_149_4/Approaches%20to%20EEG-based%20Brain-Computer%20Interfaces_%20A%20Survey.pdf). Research in Computer Science, 149(4), pp. 23-31.
