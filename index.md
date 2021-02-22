@@ -15,7 +15,7 @@ Research fellow at the [Language and Knowledge Engineering Laboratory](http://ww
 ## Areas of interest
 - Deep learning
 - Natural language processing
-- Artificial vision
+- Computer vision
 - Human-computer interaction
 - Brain-computer interfaces
 - Clustering
