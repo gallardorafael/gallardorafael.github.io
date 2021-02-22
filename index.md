@@ -2,7 +2,7 @@
 
 Research fellow at the [Language and Knowledge Engineering Laboratory](http://www.lke.buap.mx/) (LKE) of the [Benemérita Universidad Autónoma de Puebla](https://www.buap.mx/) (BUAP). Currently pursuing an *Ad Honorem* Bachelor of Engineering degree in Computer Science at BUAP. [Member](assets/docs/ConstanciaSocioSMIAc65.pdf) of the [Mexican Society for Artificial Intelligence](http://smia.mx/) (SMIA).
 
-A summarized version of this web page: [Résumé](assets/docs/resume.pdf).
+A summarized version of this web page: [Résumé](assets/docs/Resume.pdf).
 
 ## Contact information
 - Email:
