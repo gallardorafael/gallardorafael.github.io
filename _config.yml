@@ -1,5 +1,12 @@
 theme: jekyll-theme-minimal
 
 title: "Rafael Gallardo-García"
-description: "My personal web page: here you can find information about my academic trajectory, projects, and publications."
 logo: /assets/imgs/pp1.jpg
+description: >
+  Abstract: <br> Hi, my name is Rafael and this is my personal web page, here here you can find information about my academic trajectory, projects, and publications.<br>
+  Keywords:
+    Natural Language Processing,
+    Computer Vision,
+    Multimodal Deep Learning,
+    Deep Learning,
+    Machine Learning
