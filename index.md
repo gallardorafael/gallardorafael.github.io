@@ -1,10 +1,12 @@
 ## [Home](/index) / [Brief CV](/cv) / [Research](/research)
+---
 
-## About
+# About
 
 Research fellow at the [Language and Knowledge Engineering Laboratory](http://www.lke.buap.mx/) (LKE) of the [Benemérita Universidad Autónoma de Puebla](https://www.buap.mx/) (BUAP). Currently pursuing an *Ad Honorem* Bachelor of Engineering degree in Computer Science at BUAP. [Member](assets/docs/ConstanciaSocioSMIAc65.pdf) of the [Mexican Society for Artificial Intelligence](http://smia.mx/) (SMIA).
 
 A summarized version of this web page: [Résumé](assets/docs/Resume.pdf).
+---
 
 ## Contact information
 - Email:
@@ -16,6 +18,7 @@ A summarized version of this web page: [Résumé](assets/docs/Resume.pdf).
 - [Google Scholar](https://scholar.google.com/citations?user=OGxJCHoAAAAJ)
 - [ORCID](https://orcid.org/0000-0001-5085-3501)
 
+---
 ## Areas of interest
 - Natural language processing
 - Computer vision

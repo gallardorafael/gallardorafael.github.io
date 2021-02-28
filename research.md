@@ -1,19 +1,18 @@
 ## [Home](/index) / [Brief CV](/brief_cv) / [Research](/research)
+---
 
-## Research projects
+# Research projects
 
-### Current projects
-1. Thesis work: **Image Captioning with Reading Comprehension: Towards Machines with Improved Visual Perception and Image Understanding**: Working with novel techniques (multimodality and deep learning), trying to outperform the state-of-the-art over the TextCaps dataset for OCR-based image captioning. I am also considering some embedded applications, mainly focusing on helping blind people.
+## Current projects
+Thesis work: **Image Captioning with Reading Comprehension: Towards Machines with Improved Visual Perception and Image Understanding**: Working with novel techniques (multimodality and deep learning), trying to outperform the state-of-the-art over the TextCaps dataset for OCR-based image captioning. I am also considering some embedded applications, mainly focusing on helping blind people.
 
-2. **Design space exploration for super-resolution using convolutional autoencoders**: Developing architectures for single image super-resolution. The project is based on convolutional autoencoders. Trying to outperform the standard algorithms such as Lanczos resampling or bilineal/bicubic interpolations.
-
+**Design space exploration for super-resolution using convolutional autoencoders**: Developing architectures for single image super-resolution. The project is based on convolutional autoencoders. Trying to outperform the standard algorithms such as Lanczos resampling or bilineal/bicubic interpolations.
 [Paper draft](assets/docs/DRAFT_caeSR.pdf)
 
-2. **Efficient and Mobile Deep Learning Architectures for Fast Identification of Bacterial Strains in Resource-Constrained Devices**: Fine-tuning state-of-the-art mobile and efficient networks to solve a classification problem with 32 bacterial species (using DIBaS dataset). I am also proposing a new data augmentation strategy. 8 of my 12 architectures exceed 95% of top-1 classification accuracy.
-
+**Efficient and Mobile Deep Learning Architectures for Fast Identification of Bacterial Strains in Resource-Constrained Devices**: Fine-tuning state-of-the-art mobile and efficient networks to solve a classification problem with 32 bacterial species (using DIBaS dataset). I am also proposing a new data augmentation strategy. 8 of my 12 architectures exceed 95% of top-1 classification accuracy.
 [Paper draft](assets/docs/DRAFT_EffMobDIBaS.pdf)
 
-### Publications (peer reviewed)
+## Publications (peer reviewed)
 
 #### 2020
 **Approaches to EEG-based Brain-Computer Interfaces: A Survey**
@@ -21,7 +20,6 @@
 *Rafael Gallardo García*, Beatriz Beltrán Martínez, Darnes Vilariño Ayala, Rodolfo Martínez, Meliza Contreras Gonzales
 
 **Accepted** at: 7th International Symposium on Language & Knowledge Engineering at Dublin, Ireland.
-
 [Paper](https://www.rcs.cic.ipn.mx/2020_149_4/Approaches%20to%20EEG-based%20Brain-Computer%20Interfaces_%20A%20Survey.pdf)
 
 2. Gallardo García, R., Beltrán, B., Vilariño, D., Zepeda, C. and Martínez, R., 2020. [Comparison of Clustering Algorithms in Text Clustering Tasks](https://cys.cic.ipn.mx/ojs/index.php/CyS/article/view/3369). Computación y Sistemas, 24(2).
