@@ -6,22 +6,70 @@
 ## Current projects
 Thesis work: **Image Captioning with Reading Comprehension: Towards Machines with Improved Visual Perception and Image Understanding**: Working with novel techniques (multimodality and deep learning), trying to outperform the state-of-the-art over the TextCaps dataset for OCR-based image captioning. I am also considering some embedded applications, mainly focusing on helping blind people.
 
+**Status:** In preparation.
+
+---
+
 **Design space exploration for super-resolution using convolutional autoencoders**: Developing architectures for single image super-resolution. The project is based on convolutional autoencoders. Trying to outperform the standard algorithms such as Lanczos resampling or bilineal/bicubic interpolations.
+
+**Status:** In preparation.
+
 [[Paper draft]](assets/docs/DRAFT_caeSR.pdf)
 
+---
+
 **Efficient and Mobile Deep Learning Architectures for Fast Identification of Bacterial Strains in Resource-Constrained Devices**: Fine-tuning state-of-the-art mobile and efficient networks to solve a classification problem with 32 bacterial species (using DIBaS dataset). I am also proposing a new data augmentation strategy. 8 of my 12 architectures exceed 95% of top-1 classification accuracy.
+
+**Status:** In preparation.
+
 [[Paper draft]](assets/docs/DRAFT_EffMobDIBaS.pdf)
 
 ---
 
-## Publications (peer reviewed)
+## Publications
 
-#### 2020
+### 2020
+**Evaluación del modelo neuronal de atención visual en la descripción automática de imágenes en Español (Evaluation of the Neural Model of Visual Attention in the Automatic Description of Images in Spanish)**
+
+*Rafael Gallardo García*, Beatriz Beltrán Martínez, Darnes Vilariño Ayala
+
+**Accepted** at: 12th Mexican Congress of Artificial Inteligence of the SMIA at Chihuahua, Mexico.
+
+**Status:** Pending publication on [Research in Computing Science](https://www.rcs.cic.ipn.mx/).
+
+---
+
+**Deep Learning for Fast Identification of Bacterial Strains in Resource Constrained Devices**
+
+*Rafael Gallardo García*, Ana Sofía Jarquín Rodriguez, Beatriz Beltrán Martínez, Rodolfo Martínez
+
+**Accepted** at: 2nd International Congress of Computing Sciences at Puebla, Mexico.
+
+**Status:** Pending publication on conference proceedings.
+
+[[Paper]](assets/docs/paper12_revisado_latex.pdf)
+
+---
+
+**Preservación de Privacidad en el Aprendizaje Profundo: Enfoques y soluciones (Privacy Preservation in Deep Learning: Approaches and Solutions)**
+
+*Rafael Gallardo García*, Luis Herrera Maldonado, Alberto Remigio Alvarado, Pablo Romero Hernández
+
+**Accepted** at: 1st Junior Research Projects Workshop at the 2nd International Congress of Computing Sciences at Puebla, Mexico.
+
+**Status:** Pending publication on conference proceedings.
+
+[[Paper]](assets/docs/PrivacyPreseervingDL.pdf)
+
+---
+
 **Approaches to EEG-based Brain-Computer Interfaces: A Survey**
 
 *Rafael Gallardo García*, Beatriz Beltrán Martínez, Darnes Vilariño Ayala, Rodolfo Martínez, Meliza Contreras Gonzales
 
 **Accepted** at: 7th International Symposium on Language & Knowledge Engineering at Dublin, Ireland.
+
+**Status:** Published in [Research in Computing Science](https://www.rcs.cic.ipn.mx/).
 
 [[Paper]](https://www.rcs.cic.ipn.mx/2020_149_4/Approaches%20to%20EEG-based%20Brain-Computer%20Interfaces_%20A%20Survey.pdf)
 
@@ -31,26 +79,47 @@ Thesis work: **Image Captioning with Reading Comprehension: Towards Machines wit
 
 *Rafael Gallardo García*, Beatriz Beltrán Martínez, Darnes Vilariño Ayala, Claudia Zepeda, Rodolfo Martínez
 
-**Accepted** at: 76th International Symposium on Language & Knowledge Engineering at Puebla, Mexico.
+**Accepted** at: 6th International Symposium on Language & Knowledge Engineering at Puebla, Mexico.
+
+**Status:** Published in [Computación y Sistemas](https://www.cys.cic.ipn.mx/ojs/index.php/CyS).
 
 [[Paper]](https://cys.cic.ipn.mx/ojs/index.php/CyS/article/view/3369)
 
 ---
 
-#### 2019
-3. Gallardo García, R., Beltrán, B., Cerón Gárnica, C. and Vilariño Ayala, D., 2019. [edge2art: Edges to Artworks Translation with Conditional Generative Adversarial Networks](http://www.aniei.org.mx/Archivos/Memorias/Libro_Electronico_CNCIIC2019.pdf). Avances en la Transformación Digital hacia la industria 4.0, pp. 214-222.
+### 2019
+**edge2art: Edges to Artworks Translation with Conditional Generative Adversarial Networks**
 
-4. Gallardo García, R., Beltrán, B., Vilariño, D. and Martínez, R., 2019. [Facial Recognition using Convolutional Neural Networks and Supervised Few-Shot Learning](https://www.cys.cic.ipn.mx/ojs/index.php/polibits/article/view/3859/3142). POLIBITS, 60, pp.67-72.
+*Rafael Gallardo García*, Beatriz Beltrán Martínez, Carmen Cerón Gárnica, Darnes Vilariño Ayala
 
-#### 2018
-5. González-Contreras, M., Cervantes-Márquez, A., Zepeda-Cortés, C., Moyao-Martínez, Y., Beltrán-Martínez, B. and Gallardo-García, R., 2018. [SISTEMA MULTIMEDIA QUE SIMULA ALGORITMOS DE CRIPTOGRAFÍA (MULTIMEDIA SYSTEM THAT SIMULATES CRYPTOGRAPHY ALGORITHMS)](http://www.itc.mx/ojs/index.php/pistas/article/view/1668). Pistas Educativas, 40(130).
+**Accepted** at: 18th International Congress of Informatics and Computation of the ANIEI at Puebla, Mexico.
 
-### Accepted papers (pending publication)
-1. Gallardo-García, R., Beltrán-Martínez, B. and Darnes Vilariño, A., 2020. [Evaluación del modelo neuronal de atención visual en la descripción automática de imágenes en Español (Evaluation of the Neural Model of Visual Attention in the Automatic Description of Images in Spanish)](assets/docs/COMIA2020.pdf). Research in Computer Science.
+**Status:** Published in [Avances en la Transformación Digital hacia la industria 4.0](http://www.aniei.org.mx/Archivos/Memorias/Libro_Electronico_CNCIIC2019.pdf).
 
-2. Gallardo-García, R., Jarquín-Rodríguez, S., Beltrán-Martínez, B. and Martínez, R., 2020. [Deep Learning for Fast Identification of Bacterial Strains in Resource Constrained Devices](assets/docs/paper12_revisado_latex.pdf). X Congreso Nacional y II Congreso Internacional de Ciencias de la Computación.
+[[Proceedings]](http://www.aniei.org.mx/Archivos/Memorias/Libro_Electronico_CNCIIC2019.pdf), pp. 214-222.
 
-3. Gallardo-García, R., Herrera-Maldonado, L., Remigio-Alvarado, A., and Romero-Hernández P., 2020. [Preservación de Privacidad en el Aprendizaje Profundo: Enfoques y soluciones](assets/docs/PrivacyPreseervingDL.pdf). 1er. Workshop de Proyectos de Investigación Junior, X Congreso Nacional y II Congreso Internacional de Ciencias de la Computación.
+---
+
+**Facial Recognition using Convolutional Neural Networks and Supervised Few-Shot Learning**
+
+*Rafael Gallardo García*, Beatriz Beltrán Martínez, Darnes Vilariño Ayala, Rodolfo Martínez
+
+**Accepted** at: 7th International Symposium on Language & Knowledge Engineering at Dublin, Ireland.
+
+**Status:** Published in [Polytechnic Open Library International Bulletin of Information Technology and Science](https://www.polibits.gelbukh.com/).
+
+[[Paper]](https://www.cys.cic.ipn.mx/ojs/index.php/polibits/article/view/3859/3142)
+
+---
+
+### 2018
+**SISTEMA MULTIMEDIA QUE SIMULA ALGORITMOS DE CRIPTOGRAFÍA (MULTIMEDIA SYSTEM THAT SIMULATES CRYPTOGRAPHY ALGORITHMS**
+
+Meliza Gonzáles Contreras, Ana Cervantes Márquez, Claudia Zepeda Cortés, Yolanda Moyao Martínez, Beatriz Beltrán Martínez, *Rafael Gallardo García*
+
+**Status:** Published in [Pistas Educativas](http://www.itc.mx/ojs/index.php/pistas/index).
+
+[[Paper]](http://www.itc.mx/ojs/index.php/pistas/article/view/1668)
 
 ---
 
