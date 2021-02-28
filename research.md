@@ -7,10 +7,12 @@
 Thesis work: **Image Captioning with Reading Comprehension: Towards Machines with Improved Visual Perception and Image Understanding**: Working with novel techniques (multimodality and deep learning), trying to outperform the state-of-the-art over the TextCaps dataset for OCR-based image captioning. I am also considering some embedded applications, mainly focusing on helping blind people.
 
 **Design space exploration for super-resolution using convolutional autoencoders**: Developing architectures for single image super-resolution. The project is based on convolutional autoencoders. Trying to outperform the standard algorithms such as Lanczos resampling or bilineal/bicubic interpolations.
-[Paper draft](assets/docs/DRAFT_caeSR.pdf)
+[[Paper draft]](assets/docs/DRAFT_caeSR.pdf)
 
 **Efficient and Mobile Deep Learning Architectures for Fast Identification of Bacterial Strains in Resource-Constrained Devices**: Fine-tuning state-of-the-art mobile and efficient networks to solve a classification problem with 32 bacterial species (using DIBaS dataset). I am also proposing a new data augmentation strategy. 8 of my 12 architectures exceed 95% of top-1 classification accuracy.
-[Paper draft](assets/docs/DRAFT_EffMobDIBaS.pdf)
+[[Paper draft]](assets/docs/DRAFT_EffMobDIBaS.pdf)
+
+---
 
 ## Publications (peer reviewed)
 
@@ -20,9 +22,20 @@ Thesis work: **Image Captioning with Reading Comprehension: Towards Machines wit
 *Rafael Gallardo García*, Beatriz Beltrán Martínez, Darnes Vilariño Ayala, Rodolfo Martínez, Meliza Contreras Gonzales
 
 **Accepted** at: 7th International Symposium on Language & Knowledge Engineering at Dublin, Ireland.
-[Paper](https://www.rcs.cic.ipn.mx/2020_149_4/Approaches%20to%20EEG-based%20Brain-Computer%20Interfaces_%20A%20Survey.pdf)
 
-2. Gallardo García, R., Beltrán, B., Vilariño, D., Zepeda, C. and Martínez, R., 2020. [Comparison of Clustering Algorithms in Text Clustering Tasks](https://cys.cic.ipn.mx/ojs/index.php/CyS/article/view/3369). Computación y Sistemas, 24(2).
+[[Paper]](https://www.rcs.cic.ipn.mx/2020_149_4/Approaches%20to%20EEG-based%20Brain-Computer%20Interfaces_%20A%20Survey.pdf)
+
+---
+
+**Comparison of Clustering Algorithms in Text Clustering Tasks**
+
+*Rafael Gallardo García*, Beatriz Beltrán Martínez, Darnes Vilariño Ayala, Claudia Zepeda, Rodolfo Martínez
+
+**Accepted** at: 76th International Symposium on Language & Knowledge Engineering at Puebla, Mexico.
+
+[[Paper]](https://cys.cic.ipn.mx/ojs/index.php/CyS/article/view/3369)
+
+---
 
 #### 2019
 3. Gallardo García, R., Beltrán, B., Cerón Gárnica, C. and Vilariño Ayala, D., 2019. [edge2art: Edges to Artworks Translation with Conditional Generative Adversarial Networks](http://www.aniei.org.mx/Archivos/Memorias/Libro_Electronico_CNCIIC2019.pdf). Avances en la Transformación Digital hacia la industria 4.0, pp. 214-222.
@@ -39,8 +52,7 @@ Thesis work: **Image Captioning with Reading Comprehension: Towards Machines wit
 
 3. Gallardo-García, R., Herrera-Maldonado, L., Remigio-Alvarado, A., and Romero-Hernández P., 2020. [Preservación de Privacidad en el Aprendizaje Profundo: Enfoques y soluciones](assets/docs/PrivacyPreseervingDL.pdf). 1er. Workshop de Proyectos de Investigación Junior, X Congreso Nacional y II Congreso Internacional de Ciencias de la Computación.
 
-### Preprints
-1. Nothing here.
+---
 
 ### Other projects
 1. Creación de Modelos Profundos del Lenguaje (Generation of Deep Language Models), (2019). [Certificate](assets/docs/HaciendoCienciaO2019.pdf)

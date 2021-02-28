@@ -6,6 +6,8 @@
 ## Degrees
 - B.Eng. in Computer Science, Benemérita Universidad Autónoma de Puebla, 2016-2021 (ongoing)
 
+---
+
 ## Courses and workshops
 Throughout my undergraduate degree, I have participated in a wide variety of courses and workshops.
 
