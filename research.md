@@ -38,6 +38,7 @@ Thesis work: **Image Captioning with Reading Comprehension: Towards Machines wit
 **Status:** Pending publication in [Research in Computing Science](https://www.rcs.cic.ipn.mx/).
 
 [[Paper]]() [[Code]](https://github.com/gallardorafael/ShowAttendTell_Flickr8k_Spanish) [[Slides]](assets/docs/comia2020_slides.pdf)
+
 ---
 
 **Deep Learning for Fast Identification of Bacterial Strains in Resource Constrained Devices**
@@ -97,7 +98,7 @@ Thesis work: **Image Captioning with Reading Comprehension: Towards Machines wit
 
 **Status:** Published in [Avances en la Transformación Digital hacia la industria 4.0](http://www.aniei.org.mx/Archivos/Memorias/Libro_Electronico_CNCIIC2019.pdf).
 
-[[Proceedings]](http://www.aniei.org.mx/Archivos/Memorias/Libro_Electronico_CNCIIC2019.pdf), pp. 214-222. [[Code]](https://github.com/gallardorafael/edge2art) [[Slides]](aniei2019_slides.pdf)
+[[Proceedings]](http://www.aniei.org.mx/Archivos/Memorias/Libro_Electronico_CNCIIC2019.pdf), pp. 214-222. [[Code]](https://github.com/gallardorafael/edge2art) [[Slides]](assets/docs/aniei2019_slides.pdf)
 
 ---
 
