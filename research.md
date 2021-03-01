@@ -37,7 +37,7 @@ Thesis work: **Image Captioning with Reading Comprehension: Towards Machines wit
 
 **Status:** Pending publication in [Research in Computing Science](https://www.rcs.cic.ipn.mx/).
 
-[[Paper]]() [[Code]](https://github.com/gallardorafael/ShowAttendTell_Flickr8k_Spanish) [[Slides]](assets/docs/comia2020_slides.pdf)
+[[Paper]](assets/docs/comia2020_paper.pdf) [[Code]](https://github.com/gallardorafael/ShowAttendTell_Flickr8k_Spanish) [[Slides]](assets/docs/comia2020_slides.pdf)
 
 ---
 
@@ -85,7 +85,7 @@ Thesis work: **Image Captioning with Reading Comprehension: Towards Machines wit
 
 **Status:** Published in [Computación y Sistemas](https://www.cys.cic.ipn.mx/ojs/index.php/CyS).
 
-[[Paper]](https://cys.cic.ipn.mx/ojs/index.php/CyS/article/view/3369)
+[[Paper]](https://cys.cic.ipn.mx/ojs/index.php/CyS/article/view/3369) [[Slides]](assets/docs/lke2018_poster.pdf)
 
 ---
 
@@ -110,7 +110,7 @@ Thesis work: **Image Captioning with Reading Comprehension: Towards Machines wit
 
 **Status:** Published in [Polytechnic Open Library International Bulletin of Information Technology and Science](https://www.polibits.gelbukh.com/).
 
-[[Paper]](https://www.cys.cic.ipn.mx/ojs/index.php/polibits/article/view/3859/3142)
+[[Paper]](https://www.cys.cic.ipn.mx/ojs/index.php/polibits/article/view/3859/3142) [[Poster]](assets/docs/lke2019_poster.pdf)
 
 ---
 
