@@ -1,4 +1,4 @@
-## [Home](/index) / [Brief CV](/brief_cv) / [Research](/research)
+## [Home](/index) / [Brief CV](/cv) / [Research](/research)
 ---
 
 # Research projects
@@ -35,8 +35,9 @@ Thesis work: **Image Captioning with Reading Comprehension: Towards Machines wit
 
 **Accepted** at: 12th Mexican Congress of Artificial Inteligence of the SMIA at Chihuahua, Mexico.
 
-**Status:** Pending publication on [Research in Computing Science](https://www.rcs.cic.ipn.mx/).
+**Status:** Pending publication in [Research in Computing Science](https://www.rcs.cic.ipn.mx/).
 
+[[Paper]]() [[Code]](https://github.com/gallardorafael/ShowAttendTell_Flickr8k_Spanish) [[Slides]](assets/docs/comia2020_slides.pdf)
 ---
 
 **Deep Learning for Fast Identification of Bacterial Strains in Resource Constrained Devices**
@@ -45,9 +46,9 @@ Thesis work: **Image Captioning with Reading Comprehension: Towards Machines wit
 
 **Accepted** at: 2nd International Congress of Computing Sciences at Puebla, Mexico.
 
-**Status:** Pending publication on conference proceedings.
+**Status:** Pending publication in conference proceedings.
 
-[[Paper]](assets/docs/paper12_revisado_latex.pdf)
+[[Paper]](assets/docs/paper12_revisado_latex.pdf) [[Code]](https://github.com/gallardorafael/bacterialidentification) [[Slides]](assets/docs/conacic2020_slides.pdf)
 
 ---
 
@@ -57,7 +58,7 @@ Thesis work: **Image Captioning with Reading Comprehension: Towards Machines wit
 
 **Accepted** at: 1st Junior Research Projects Workshop at the 2nd International Congress of Computing Sciences at Puebla, Mexico.
 
-**Status:** Pending publication on conference proceedings.
+**Status:** Pending publication in conference proceedings.
 
 [[Paper]](assets/docs/PrivacyPreseervingDL.pdf)
 
@@ -96,7 +97,7 @@ Thesis work: **Image Captioning with Reading Comprehension: Towards Machines wit
 
 **Status:** Published in [Avances en la Transformación Digital hacia la industria 4.0](http://www.aniei.org.mx/Archivos/Memorias/Libro_Electronico_CNCIIC2019.pdf).
 
-[[Proceedings]](http://www.aniei.org.mx/Archivos/Memorias/Libro_Electronico_CNCIIC2019.pdf), pp. 214-222.
+[[Proceedings]](http://www.aniei.org.mx/Archivos/Memorias/Libro_Electronico_CNCIIC2019.pdf), pp. 214-222. [[Code]](https://github.com/gallardorafael/edge2art) [[Slides]](aniei2019_slides.pdf)
 
 ---
 
@@ -124,10 +125,10 @@ Meliza Gonzáles Contreras, Ana Cervantes Márquez, Claudia Zepeda Cortés, Yola
 ---
 
 ### Other projects
-1. Creación de Modelos Profundos del Lenguaje (Generation of Deep Language Models), (2019). [Certificate](assets/docs/HaciendoCienciaO2019.pdf)
+Creación de Modelos Profundos del Lenguaje (Generation of Deep Language Models), (2019). [Certificate](assets/docs/HaciendoCienciaO2019.pdf)
 
-2. Facial Recognition with Deep Neural Networks and Clustering Algorithms, (2019). [Certificate](assets/docs/HacienciCienciaP2019.pdf)
+Facial Recognition with Deep Neural Networks and Clustering Algorithms, (2019). [Certificate](assets/docs/HacienciCienciaP2019.pdf)
 
-3. A grammar-based methodology to detect anomalous events through complex networks in real time, (2019).
+A grammar-based methodology to detect anomalous events through complex networks in real time, (2019).
 
-4. A review of sentiment analysis techniques: working with Twitter data, (2017). [Certificate](assets/docs/HaciendoCienciaO2018.pdf)
+A review of sentiment analysis techniques: working with Twitter data, (2017). [Certificate](assets/docs/HaciendoCienciaO2018.pdf)
