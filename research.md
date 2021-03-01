@@ -1,7 +1,7 @@
 ## [Home](/index) / [Brief CV](/cv) / [Research](/research)
 ---
 
-# Research projects
+# Research
 
 ## Current projects
 Thesis work: **Image Captioning with Reading Comprehension: Towards Machines with Improved Visual Perception and Image Understanding**: Working with novel techniques (multimodality and deep learning), trying to outperform the state-of-the-art over the TextCaps dataset for OCR-based image captioning. I am also considering some embedded applications, mainly focusing on helping blind people.

@@ -1,7 +1,7 @@
 ## [Home](/index) / [Brief CV](/cv) / [Research](/research)
 ---
 
-# Education
+# Brief CV
 
 ## Degrees
 - B.Eng. in Computer Science, Benemérita Universidad Autónoma de Puebla, 2016-2021 (ongoing)
