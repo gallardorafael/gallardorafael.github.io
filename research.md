@@ -47,7 +47,7 @@ Thesis work: **Image Captioning with Reading Comprehension: Towards Machines wit
 
 **Accepted** at: 2nd International Congress of Computing Sciences at Puebla, Mexico.
 
-**Status:** Published in [Aplicaciones Científicas y Tecnológicas de las Ciencias Computacionales] (assets/docs/CONACIC-2020-Libro-1.pdf)
+**Status:** Published in [Aplicaciones Científicas y Tecnológicas de las Ciencias Computacionales](assets/docs/CONACIC-2020-Libro-1.pdf)
 
 [[Paper]](assets/docs/CONACICDeepLearningBook.pdf) [[Code]](https://github.com/gallardorafael/bacterialidentification) [[Slides]](assets/docs/conacic2020_slides.pdf)
 
