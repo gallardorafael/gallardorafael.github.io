@@ -35,9 +35,9 @@ Thesis work: **Image Captioning with Reading Comprehension: Towards Machines wit
 
 **Accepted** at: 12th Mexican Congress of Artificial Inteligence of the SMIA at Chihuahua, Mexico.
 
-**Status:** Pending publication in [Research in Computing Science](https://www.rcs.cic.ipn.mx/).
+**Status:** Published in [Research in Computing Science](https://www.rcs.cic.ipn.mx/).
 
-[[Paper]](assets/docs/comia2020_paper.pdf) [[Code]](https://github.com/gallardorafael/ShowAttendTell_Flickr8k_Spanish) [[Slides]](assets/docs/comia2020_slides.pdf)
+[[Paper]](https://rcs.cic.ipn.mx/2020_149_8/Evaluacion%20del%20modelo%20neuronal%20de%20atencion%20visual%20en%20la%20descripcion%20automatica%20de%20imagenes.pdf) [[Code]](https://github.com/gallardorafael/ShowAttendTell_Flickr8k_Spanish) [[Slides]](assets/docs/comia2020_slides.pdf)
 
 ---
 
@@ -47,9 +47,9 @@ Thesis work: **Image Captioning with Reading Comprehension: Towards Machines wit
 
 **Accepted** at: 2nd International Congress of Computing Sciences at Puebla, Mexico.
 
-**Status:** Pending publication in conference proceedings.
+**Status:** Published in [Aplicaciones Científicas y Tecnológicas de las Ciencias Computacionales] (assets/docs/CONACIC-2020-Libro-1.pdf)
 
-[[Paper]](assets/docs/paper12_revisado_latex.pdf) [[Code]](https://github.com/gallardorafael/bacterialidentification) [[Slides]](assets/docs/conacic2020_slides.pdf)
+[[Paper]](assets/docs/CONACICDeepLearningBook.pdf) [[Code]](https://github.com/gallardorafael/bacterialidentification) [[Slides]](assets/docs/conacic2020_slides.pdf)
 
 ---
 
@@ -98,7 +98,7 @@ Thesis work: **Image Captioning with Reading Comprehension: Towards Machines wit
 
 **Status:** Published in [Avances en la Transformación Digital hacia la industria 4.0](http://www.aniei.org.mx/Archivos/Memorias/Libro_Electronico_CNCIIC2019.pdf).
 
-[[Proceedings]](http://www.aniei.org.mx/Archivos/Memorias/Libro_Electronico_CNCIIC2019.pdf), pp. 214-222. [[Code]](https://github.com/gallardorafael/edge2art) [[Slides]](assets/docs/aniei2019_slides.pdf)
+[[Paper]](assets/docs/ANIEIedge2art.pdf) [[Code]](https://github.com/gallardorafael/edge2art) [[Slides]](assets/docs/aniei2019_slides.pdf)
 
 ---
 
