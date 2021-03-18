@@ -85,7 +85,7 @@ Thesis work: **Image Captioning with Reading Comprehension: Towards Machines wit
 
 **Status:** Published in [Computación y Sistemas](https://www.cys.cic.ipn.mx/ojs/index.php/CyS).
 
-[[Paper]](https://cys.cic.ipn.mx/ojs/index.php/CyS/article/view/3369) [[Slides]](assets/docs/lke2018_poster.pdf)
+[[Paper]](https://cys.cic.ipn.mx/ojs/index.php/CyS/article/view/3369) [[Poster]](assets/docs/lke2018_poster.pdf)
 
 ---
 
