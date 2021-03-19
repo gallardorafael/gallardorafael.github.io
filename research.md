@@ -33,9 +33,9 @@ Thesis work: **Image Captioning with Reading Comprehension: Towards Machines wit
 
 *Rafael Gallardo García*, Beatriz Beltrán Martínez, Darnes Vilariño Ayala
 
-**Accepted** at: 12th Mexican Congress of Artificial Inteligence of the SMIA at Chihuahua, Mexico.
+**Accepted** at: 12th Mexican Congress of Artificial Intelligence of the SMIA at Chihuahua, Mexico.
 
-**Status:** Published in [Research in Computing Science](https://www.rcs.cic.ipn.mx/).
+**Status:** Published in [Research in Computing Science](https://rcs.cic.ipn.mx/2020_149_8/), Advances in Artificial Intelligence.
 
 [[Paper]](https://rcs.cic.ipn.mx/2020_149_8/Evaluacion%20del%20modelo%20neuronal%20de%20atencion%20visual%20en%20la%20descripcion%20automatica%20de%20imagenes.pdf) [[Code]](https://github.com/gallardorafael/ShowAttendTell_Flickr8k_Spanish) [[Slides]](assets/docs/comia2020_slides.pdf)
 
@@ -71,7 +71,7 @@ Thesis work: **Image Captioning with Reading Comprehension: Towards Machines wit
 
 **Accepted** at: 7th International Symposium on Language & Knowledge Engineering at Dublin, Ireland.
 
-**Status:** Published in [Research in Computing Science](https://www.rcs.cic.ipn.mx/).
+**Status:** Published in [Research in Computing Science](https://www.rcs.cic.ipn.mx/2020_149_4/), Applications of Language & Knowledge Engineering.
 
 [[Paper]](https://www.rcs.cic.ipn.mx/2020_149_4/Approaches%20to%20EEG-based%20Brain-Computer%20Interfaces_%20A%20Survey.pdf)
 
@@ -83,7 +83,7 @@ Thesis work: **Image Captioning with Reading Comprehension: Towards Machines wit
 
 **Accepted** at: 6th International Symposium on Language & Knowledge Engineering at Puebla, Mexico.
 
-**Status:** Published in [Computación y Sistemas](https://www.cys.cic.ipn.mx/ojs/index.php/CyS).
+**Status:** Published in [Computación y Sistemas](https://www.cys.cic.ipn.mx/ojs/index.php/CyS), Thematic Issue on Language & Knowledge Engineering.
 
 [[Paper]](https://cys.cic.ipn.mx/ojs/index.php/CyS/article/view/3369) [[Poster]](assets/docs/lke2018_poster.pdf)
 
@@ -108,7 +108,7 @@ Thesis work: **Image Captioning with Reading Comprehension: Towards Machines wit
 
 **Accepted** at: 7th International Symposium on Language & Knowledge Engineering at Dublin, Ireland.
 
-**Status:** Published in [Polytechnic Open Library International Bulletin of Information Technology and Science](https://www.polibits.gelbukh.com/).
+**Status:** Published in [Polytechnic Open Library International Bulletin of Information Technology and Science](https://www.cys.cic.ipn.mx/ojs/index.php/polibits/issue/view/v60-2019).
 
 [[Paper]](https://www.cys.cic.ipn.mx/ojs/index.php/polibits/article/view/3859/3142) [[Poster]](assets/docs/lke2019_poster.pdf)
 
@@ -119,7 +119,7 @@ Thesis work: **Image Captioning with Reading Comprehension: Towards Machines wit
 
 Meliza Gonzáles Contreras, Ana Cervantes Márquez, Claudia Zepeda Cortés, Yolanda Moyao Martínez, Beatriz Beltrán Martínez, *Rafael Gallardo García*
 
-**Status:** Published in [Pistas Educativas](http://www.itc.mx/ojs/index.php/pistas/index).
+**Status:** Published in [Pistas Educativas](http://www.itc.mx/ojs/index.php/pistas/issue/view/61), Difusión del Conocimiento.
 
 [[Paper]](http://www.itc.mx/ojs/index.php/pistas/article/view/1668)
 
