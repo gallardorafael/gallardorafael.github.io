@@ -23,7 +23,7 @@ Bacterial Strains in Resource-Constrained Devices**: Fine-tuning state-of-the-ar
 
 **Status:** In preparation.
 
-[[Paper draft]](assets/docs/DRAFT_EffMobDIBaS.pdf)
+[[Paper draft]](assets/docs/DRAFT_EffDLDIBaS.pdf)
 
 ---
 
