@@ -18,7 +18,8 @@ Thesis work: **Image Captioning with Reading Comprehension: Towards Machines wit
 
 ---
 
-**Efficient and Mobile Deep Learning Architectures for Fast Identification of Bacterial Strains in Resource-Constrained Devices**: Fine-tuning state-of-the-art mobile and efficient networks to solve a classification problem with 32 bacterial species (using DIBaS dataset). I am also proposing a new data augmentation strategy. 8 of my 12 architectures exceed 95% of top-1 classification accuracy.
+**Efficient Deep Learning Architectures for Fast Identification of
+Bacterial Strains in Resource-Constrained Devices**: Fine-tuning state-of-the-art mobile and efficient networks to solve a classification problem with 32 bacterial species (using DIBaS dataset). I am also proposing a new data augmentation strategy. 8 of my 12 architectures exceed 95% of top-1 classification accuracy. The relative improvement of some models almost doubled after using data augmentation.
 
 **Status:** In preparation.
 
