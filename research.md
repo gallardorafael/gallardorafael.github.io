@@ -133,4 +133,4 @@ Facial Recognition with Deep Neural Networks and Clustering Algorithms, (2019). 
 
 A grammar-based methodology to detect anomalous events through complex networks in real time, (2019).
 
-A review of sentiment analysis techniques: working with Twitter data, (2017). [Certificate](assets/docs/HaciendoCienciaO2018.pdf)
+A review of sentiment analysis techniques: working with Twitter data, (2018). [Certificate](assets/docs/HaciendoCienciaO2018.pdf)
