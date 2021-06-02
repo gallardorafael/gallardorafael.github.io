@@ -4,7 +4,7 @@
 # Research
 
 ## Current projects
-Thesis work: **Image Captioning with Reading Comprehension: Towards Machines with Improved Visual Perception and Image Understanding**: Working with novel techniques (multimodality and deep learning), trying to outperform the state-of-the-art over the TextCaps dataset for OCR-based image captioning. I am also considering some embedded applications, mainly focusing on helping blind people.
+Thesis work: **Image Captioning with Reading Comprehension: Towards Machines with Improved Visual Perception and Image Understanding**: Working with multi-modal deep learning to solve the problem, analyzing the impact of the OCR features in the overall performance, mainly working with the TextCaps dataset. Also working in language-agnostic architectures to solve the task.
 
 **Status:** In preparation.
 
@@ -21,7 +21,7 @@ Thesis work: **Image Captioning with Reading Comprehension: Towards Machines wit
 **Efficient Deep Learning Architectures for Fast Identification of
 Bacterial Strains in Resource-Constrained Devices**: Fine-tuning state-of-the-art mobile and efficient networks to solve a classification problem with 32 bacterial species (using DIBaS dataset). I am also proposing a new data augmentation strategy. 8 of my 12 architectures exceed 95% of top-1 classification accuracy. The relative improvement of some models almost doubled after using data augmentation.
 
-**Status:** In preparation.
+**Status:** Submitted to Springer Nature - Multimedia Tools and Applications (special issue on Engineering Tools and Applications in Medical Imaging). Waiting for decision.
 
 [[Paper draft]](assets/docs/DRAFT_EffDLDIBaS.pdf)
 
