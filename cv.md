@@ -11,6 +11,7 @@
 ## Courses and workshops
 Throughout my undergraduate degree, I have participated in a wide variety of courses and workshops.
 
+- Mexican NLP Summer School 2021, organized by the [Mexican Association of Natural Language Processing](http://ampln.mx/portal/inicio), 2021.
 - Mexican Workshop on Data Science and Big Data at the [Centro de Investigación en Matemáticas](https://www.cimat.mx/) (CIMAT), 2020. [Certificate](assets/docs/Reconocimiento_Taller_CD_BD_2020_Rafael_Gallardo_García.pdf)
 - School of Deep Learning applied to Language Technologies at the
 [National Institute of Astrophysics, Optics and Electronics](https://www.inaoep.mx/) (INAOE), 2020.
