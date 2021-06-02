@@ -4,7 +4,7 @@
 # Brief CV
 
 ## Degrees
-- B.Eng. in Computer Science, Benemérita Universidad Autónoma de Puebla, 2016-2021 (ongoing)
+- B.Eng. in Computer Science, Benemérita Universidad Autónoma de Puebla, 2016-2021. Thesis work in progress.
 
 ---
 
