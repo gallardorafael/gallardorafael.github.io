@@ -10,11 +10,9 @@ Thesis work: **Image Captioning with Reading Comprehension: Towards Machines wit
 
 ---
 
-**Design space exploration for super-resolution using convolutional autoencoders**: Developing architectures for single image super-resolution. The project is based on convolutional autoencoders. Trying to outperform the standard algorithms such as Lanczos resampling or bilineal/bicubic interpolations.
+**Towards Multilingual Image Captioning Models that Can Read**: In this work, we propose *Multilingual M4C-Captioner*, a multilingual architecture that can be easily trained with different languages with minor changes in the configuration. Our architecture is a modified version of the M4C-captioner, which mainly differs in the text embedding module and the OCR's embedding module, our approach modifies the former in order to use a pre-trained and multilingual version of BERT, and the last by using the pre-trained FastText vectors for the target language.
 
-**Status:** In preparation.
-
-[[Paper draft]](assets/docs/DRAFT_caeSR.pdf)
+**Status:** Submitted to the 20th Mexican International Conference on Artificial Intelligence (MICAI). Waiting for decision.
 
 ---
 
@@ -23,7 +21,15 @@ Bacterial Strains in Resource-Constrained Devices**: Fine-tuning state-of-the-ar
 
 **Status:** Submitted to Springer Nature - Multimedia Tools and Applications (special issue on Engineering Tools and Applications in Medical Imaging). Waiting for decision.
 
-[[Paper draft]](assets/docs/DRAFT_EffDLDIBaS.pdf)
+[[arXiv preprint]](https://arxiv.org/abs/2106.06505)
+
+---
+
+**Design space exploration for super-resolution using convolutional autoencoders**: Developing architectures for single image super-resolution. The project is based on convolutional autoencoders. Trying to outperform the standard algorithms such as Lanczos resampling or bilineal/bicubic interpolations.
+
+**Status:** In preparation.
+
+[[Paper draft]](assets/docs/DRAFT_caeSR.pdf)
 
 ---
 
