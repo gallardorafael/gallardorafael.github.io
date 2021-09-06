@@ -10,9 +10,15 @@ Thesis work: **Image Captioning with Reading Comprehension: Towards Machines wit
 
 ---
 
+**Searching for Memory-Lighter Architectures for OCR-Augmented Image Captioning**: This work introduces two alternative versions (L-M4C and L-CNMT) of top architectures (on the TextCaps challenge), which were mainly adapted to achieve near-State-of-The-Art performance while being memory-lighter when compared to the original architectures, this is achieved by using distilled or smaller pre-trained models on the text-and-OCR embedding modules. Our proposal can reduce the memory used by the OCR-embedding module up to a 94\%. Two of the three models presented in this work surpassed the baseline (M4C-Captioner) of the challenge on the evaluation and test sets, also, our best lighter architecture reached a CIDEr score of 88.24 on the test set, which is 7.25 points above the baseline model.
+
+**Submitted** to the: 8th International Symposium on Language & Knowledge Engineering.
+
+---
+
 **Towards Multilingual Image Captioning Models that Can Read**: In this work, we propose *Multilingual M4C-Captioner*, a multilingual architecture that can be easily trained with different languages with minor changes in the configuration. Our architecture is a modified version of the M4C-captioner, which mainly differs in the text embedding module and the OCR's embedding module, our approach modifies the former in order to use a pre-trained and multilingual version of BERT, and the last by using the pre-trained FastText vectors for the target language.
 
-**Status:** Submitted to the 20th Mexican International Conference on Artificial Intelligence (MICAI). Waiting for decision.
+**Accepted** at: 20th Mexican International Conference on Artificial Intelligence (MICAI), for oral presentation.
 
 ---
 

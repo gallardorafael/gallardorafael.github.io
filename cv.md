@@ -8,6 +8,11 @@
 
 ---
 
+## Awards
+- 1st place on the "JusticIA" hackathon of the [International Meeting on Artificial Intelligence and its Applications](http://riiaa.org/) (RIIAA). Our solution is an end-to-end workflow: image pre-processing, OCR and entity recognition are integrated to a semantic search engine. [Certificate]() [Code](https://github.com/Hackaton-JusticIA-2021/Coeus-AI) [Pitch](https://youtu.be/L6xxXq6wVWE)
+
+---
+
 ## Courses and workshops
 Throughout my undergraduate degree, I have participated in a wide variety of courses and workshops.
 
