@@ -4,12 +4,12 @@
 # Brief CV
 
 ## Degrees
-- B.Eng. in Computer Science, Benemérita Universidad Autónoma de Puebla, 2016-2021. Thesis work in progress.
+- Bachelor of Engineering in Computer Science, Faculty of Computer Science, Benemérita Universidad Autónoma de Puebla, 2016-2021. Thesis work in progress.
 
 ---
 
 ## Awards
-- 1st place on the "JusticIA" hackathon of the [International Meeting on Artificial Intelligence and its Applications](http://riiaa.org/) (RIIAA) 2021. Our solution is an end-to-end workflow: the modules for image pre-processing, OCR and entity recognition are integrated in a semantic search engine. [Certificate] [[Code]](https://github.com/Hackaton-JusticIA-2021/Coeus-AI) [[Pitch]](https://youtu.be/L6xxXq6wVWE)
+- 1st place on the "JusticIA" hackathon of the [International Meeting on Artificial Intelligence and its Applications](http://riiaa.org/) (RIIAA) 2021. Our solution is an end-to-end workflow: the modules for image pre-processing, OCR and entity recognition are integrated in a semantic search engine. [[Certificate]](assets/docs/JusticIA2021.pdf) [[Code]](https://github.com/Hackaton-JusticIA-2021/Coeus-AI) [[Pitch]](https://youtu.be/L6xxXq6wVWE)
 
 ---
 
