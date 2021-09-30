@@ -10,7 +10,7 @@ Thesis work: **Image Captioning with Reading Comprehension: Towards Machines wit
 
 ---
 
-**Searching for Memory-Lighter Architectures for OCR-Augmented Image Captioning**: This work introduces two alternative versions (L-M4C and L-CNMT) of top architectures (on the TextCaps challenge), which were mainly adapted to achieve near-State-of-The-Art performance while being memory-lighter when compared to the original architectures, this is achieved by using distilled or smaller pre-trained models on the text-and-OCR embedding modules. Our proposal can reduce the memory used by the OCR-embedding module up to a 94\%. Two of the three models presented in this work surpassed the baseline (M4C-Captioner) of the challenge on the evaluation and test sets, also, our best lighter architecture reached a CIDEr score of 88.24 on the test set, which is 7.25 points above the baseline model.
+**Searching for Memory-Lighter Architectures for OCR-Augmented Image Captioning**: This work introduces two alternative versions (L-M4C and L-CNMT) of top architectures (on the TextCaps challenge), which were mainly adapted to achieve near-State-of-The-Art performance while being memory-lighter when compared to the original architectures, this is achieved by using distilled or smaller pre-trained models on the text-and-OCR embedding modules. Our proposal can reduce the memory used by the OCR-embedding module up to a 94%. Two of the three models presented in this work surpassed the baseline (M4C-Captioner) of the challenge on the evaluation and test sets, also, our best lighter architecture reached a CIDEr score of 88.24 on the test set, which is 7.25 points above the baseline model.
 
 **Submitted** to the: 8th International Symposium on Language & Knowledge Engineering.
 
