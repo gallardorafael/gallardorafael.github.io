@@ -43,7 +43,7 @@ Thesis work: **Image Captioning with Reading Comprehension: Towards Machines wit
 
 **Status:** Published in [Springer - Lecture Notes in Computer Science](https://link.springer.com/chapter/10.1007/978-3-030-89820-5_2), MICAI 2021: Advances in Soft Computing.
 
-[[Paper]](assets/docs/GallardoGarcía2021_Chapter_TowardsMultilingualImageCaptio.pdf) [[Code]](https://github.com/gallardorafael/multilingual-mmf) [[Slides]](assets/docs/paper36.pdf)
+[[Paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-030-89820-5_2.pdf) [[Code]](https://github.com/gallardorafael/multilingual-mmf) [[Slides]](assets/docs/paper36.pdf)
 
 ---
 
