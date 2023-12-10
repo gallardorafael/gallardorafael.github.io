@@ -1,4 +1,4 @@
-## [Home](/index) / [Brief CV](/cv) / [Research](/research)
+## [Home](/index) / [Brief CV](/cv)
 ---
 
 # Home
