@@ -9,7 +9,7 @@
 ---
 
 ## Awards
-- 
+- Recognized as one of the top TI graduates in my country, awarded by the [National Association of Information Technology Education Institutions](http://www.aniei.org.mx/ANIEI/) (ANIEI).
 - 1st place on the "JusticIA" hackathon of the [International Meeting on Artificial Intelligence and its Applications](http://riiaa.org/) (RIIAA) 2021. Our solution is an end-to-end workflow: the modules for image pre-processing, OCR and entity recognition are integrated in a semantic search engine. [[Certificate]](assets/docs/JusticIA2021.pdf) [[Code]](https://github.com/Hackaton-JusticIA-2021/Coeus-AI) [[Pitch]](https://youtu.be/L6xxXq6wVWE)
 
 ---
