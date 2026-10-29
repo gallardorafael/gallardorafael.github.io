@@ -1,0 +1,5 @@
+title: Rafael Gallardo
+description: Applied scientist. I work on AI agents, and before that on computer vision and NLP.
+markdown: kramdown
+exclude:
+  - README.md
